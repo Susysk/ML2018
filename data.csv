@@ -1,0 +1,501 @@
+league,area,retrieved_from_url,start_time,end_time,team1,team2,outcome,team1_odds,team2_odds,draw_odds
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1526212800,1526218200,Burnley,Bournemouth,TEAM2,2.35,3.06,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1526212800,1526218200,"Crystal Palace","West Brom",TEAM1,1.76,4.69,3.81
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1526212800,1526218200,Huddersfield,Arsenal,TEAM2,5.59,1.54,4.7
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1526212800,1526218200,Liverpool,Brighton,TEAM1,1.21,13.13,7.15
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1526212800,1526218200,"Manchester United",Watford,TEAM1,1.52,6.56,4.34
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1526212800,1526218200,Newcastle,Chelsea,TEAM1,4.78,1.76,3.79
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1526212800,1526218200,Southampton,"Manchester City",TEAM2,6.25,1.52,4.49
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1526212800,1526218200,Swansea,Stoke,TEAM2,2.04,3.77,3.51
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1526212800,1526218200,Tottenham,"Leicester ",TEAM1,1.36,8.14,5.39
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1526212800,1526218200,"West Ham",Everton,TEAM1,2.3,3.22,3.38
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525970700,1525976100,"West Ham","Manchester United",DRAW,4.51,1.81,3.85
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525885200,1525890600,"Manchester City",Brighton,TEAM1,1.18,17.0,7.38
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525885200,1525890600,Tottenham,"Newcastle ",TEAM1,1.2,14.5,7.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525884300,1525889700,Chelsea,Huddersfield,DRAW,1.25,15.5,5.83
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525884300,1525889700,Leicester,Arsenal,TEAM1,3.86,1.95,3.85
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525797900,1525803300,Swansea,Southampton,TEAM2,3.33,2.39,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525613400,1525618800,Arsenal,Burnley,TEAM1,1.42,7.49,4.85
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525613400,1525618800,Chelsea,Liverpool,TEAM1,2.17,3.27,3.66
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525602600,1525608000,"Manchester City",Huddersfield,DRAW,1.09,27.75,11.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525530600,1525536000,Everton,Southampton,DRAW,2.81,2.65,3.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525521600,1525527000,Bournemouth,Swansea,TEAM1,2.0,3.91,3.53
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525521600,1525527000,Leicester,"West Ham",TEAM2,2.28,3.22,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525521600,1525527000,Watford,Newcastle,TEAM1,2.19,3.59,3.29
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525521600,1525527000,"West Brom",Tottenham,TEAM1,7.63,1.46,4.49
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525512600,1525518000,Stoke,"Crystal Palace",TEAM2,2.52,2.85,3.41
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525453200,1525458600,Brighton,"Manchester United",TEAM1,4.9,1.83,3.48
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525107600,1525113000,Tottenham,"Watford ",TEAM1,1.16,16.56,8.38
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525008600,1525014000,"Manchester United",Arsenal,TEAM1,1.37,8.28,5.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1525000500,1525005900,"West Ham","Manchester City",TEAM2,9.45,1.33,5.65
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524925800,1524931200,Swansea,Chelsea,TEAM2,7.71,1.44,4.6
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524916800,1524922200,Burnley,Brighton,DRAW,2.39,3.38,3.08
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524916800,1524922200,"Crystal Palace",Leicester,TEAM1,2.08,3.67,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524916800,1524922200,Huddersfield,Everton,TEAM2,2.6,3.04,3.06
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524916800,1524922200,Newcastle,"West Brom",TEAM2,1.95,4.4,3.34
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524916800,1524922200,Southampton,Bournemouth,TEAM1,1.69,4.95,4.05
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524907800,1524913200,Liverpool,Stoke,DRAW,1.28,11.63,5.73
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524502800,1524508200,Everton,Newcastle,TEAM1,2.17,3.65,3.26
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524403800,1524409200,"Manchester City",Swansea,TEAM1,1.13,20.63,9.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524393000,1524398400,Arsenal,"West Ham",TEAM1,1.48,6.76,4.68
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524393000,1524398400,Stoke,Burnley,DRAW,2.25,3.44,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524312000,1524317400,Watford,"Crystal Palace",DRAW,3.03,2.46,3.27
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524303000,1524308400,"West Brom",Liverpool,DRAW,6.49,1.58,4.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524156300,1524161700,Burnley,Chelsea,TEAM2,4.47,1.89,3.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524156300,1524161700,Leicester,Southampton,DRAW,2.4,3.08,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1524069900,1524075300,Bournemouth,"Manchester United",TEAM2,4.53,1.81,3.85
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1523983500,1523988900,Brighton,Tottenham,DRAW,6.67,1.54,4.27
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1523898000,1523903400,"West Ham",Stoke,DRAW,1.98,4.07,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1523797200,1523802600,"Manchester United","West Brom",TEAM2,1.19,17.38,7.04
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1523788200,1523793600,Newcastle,Arsenal,TEAM1,2.89,2.49,3.43
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league/results/,1523724300,1523729700,Tottenham,"Manchester City ",TEAM2,2.8,2.53,3.57
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1463504400,1463509800,"Manchester United",Bournemouth,TEAM1,1.5,6.64,4.59
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1463313600,1463319000,Arsenal,"Aston Villa",TEAM1,1.11,22.5,10.88
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1463313600,1463319000,Chelsea,Leicester,DRAW,2.0,3.63,3.73
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1463313600,1463319000,Everton,Norwich,TEAM1,1.72,4.61,4.08
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1463313600,1463319000,Newcastle,Tottenham,TEAM1,5.1,1.7,3.89
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1463313600,1463319000,Southampton,"Crystal Palace",TEAM1,1.28,10.75,6.09
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1463313600,1463319000,Stoke,"West Ham",TEAM1,3.03,2.26,3.73
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1463313600,1463319000,Swansea,"Manchester City",DRAW,6.63,1.46,4.9
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1463313600,1463319000,Watford,Sunderland,DRAW,1.65,5.15,4.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1463313600,1463319000,"West Brom",Liverpool,DRAW,2.6,2.7,3.49
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462986000,1462991400,Liverpool,Chelsea,DRAW,1.7,4.68,4.19
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462985100,1462990500,Norwich,Watford,TEAM1,1.85,4.29,3.8
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462985100,1462990500,Sunderland,Everton,TEAM1,1.85,4.34,3.8
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462898700,1462904100,"West Ham","Manchester United",TEAM1,3.05,2.31,3.54
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462712400,1462717800,Liverpool,Watford,TEAM1,1.56,6.13,4.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462712400,1462717800,"Manchester City",Arsenal,DRAW,2.22,3.23,3.56
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462703400,1462708800,Tottenham,Southampton,TEAM2,2.18,3.48,3.38
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462631400,1462636800,Leicester,Everton,TEAM1,1.9,4.0,4.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462622400,1462627800,"Aston Villa",Newcastle,DRAW,5.06,1.7,3.95
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462622400,1462627800,Bournemouth,"West Brom",DRAW,1.91,4.24,3.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462622400,1462627800,"Crystal Palace",Stoke,TEAM1,2.01,3.91,3.46
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462622400,1462627800,Sunderland,Chelsea,TEAM1,3.08,2.28,3.59
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462622400,1462627800,"West Ham",Swansea,TEAM2,1.35,9.06,5.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462614300,1462619700,Norwich,"Manchester United",TEAM2,3.95,2.04,3.47
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462208400,1462213800,Chelsea,Tottenham,DRAW,2.59,2.76,3.43
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462109400,1462114800,Southampton,"Manchester City",TEAM1,2.4,3.03,3.41
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462100700,1462106100,"Manchester United",Leicester,DRAW,1.95,4.26,3.39
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462093200,1462098600,Swansea,Liverpool,TEAM1,3.53,2.14,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462026600,1462032000,Arsenal,Norwich,TEAM1,1.27,12.44,5.96
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462017600,1462023000,Everton,Bournemouth,TEAM1,2.39,2.91,3.56
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462017600,1462023000,Newcastle,"Crystal Palace",TEAM1,2.08,3.7,3.41
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462017600,1462023000,Stoke,Sunderland,DRAW,2.94,2.5,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462017600,1462023000,Watford,"Aston Villa",TEAM1,1.71,5.38,3.71
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1462017600,1462023000,"West Brom","West Ham",TEAM2,3.94,1.98,3.51
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461603600,1461609000,Tottenham,"West Brom",DRAW,1.22,14.63,6.54
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461503700,1461509100,Leicester,Swansea,TEAM1,1.7,5.59,3.65
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461495900,1461501300,Sunderland,Arsenal,DRAW,5.4,1.65,4.04
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461412800,1461418200,"Aston Villa",Southampton,TEAM2,6.89,1.55,4.08
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461412800,1461418200,Bournemouth,Chelsea,TEAM2,3.41,2.16,3.53
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461412800,1461418200,Liverpool,Newcastle,DRAW,1.51,6.31,4.63
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461404700,1461410100,"Manchester City",Stoke,TEAM1,1.31,10.13,5.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461257100,1461262500,Arsenal,"West Brom",TEAM1,1.27,13.08,5.97
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461171600,1461177000,Liverpool,Everton,TEAM1,1.7,5.15,3.93
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461171600,1461177000,"Manchester United","Crystal Palace",TEAM1,1.42,8.35,4.61
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461170700,1461176100,"West Ham",Watford,TEAM1,1.45,7.5,4.67
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1461084300,1461089700,Newcastle,"Manchester City",DRAW,6.27,1.54,4.37
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1460998800,1461004200,Stoke,Tottenham,TEAM2,4.93,1.74,3.81
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1460898000,1460903400,Arsenal,"Crystal Palace",DRAW,1.33,9.38,5.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1460889000,1460894400,Bournemouth,Liverpool,TEAM2,2.7,2.75,3.4
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2015-2016/results/,1460889000,1460894400,Leicester,"West Ham",DRAW,1.94,4.06,3.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432468800,1432474200,Arsenal,"West Brom",TEAM1,1.35,8.44,5.46
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432468800,1432474200,"Aston Villa",Burnley,TEAM2,2.23,3.29,3.41
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432468800,1432474200,Chelsea,Sunderland,TEAM1,1.31,10.38,5.54
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432468800,1432474200,"Crystal Palace",Swansea,TEAM1,1.78,4.64,3.73
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432468800,1432474200,Everton,Tottenham,TEAM2,2.32,3.09,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432468800,1432474200,"Hull City","Manchester United",DRAW,3.13,2.26,3.51
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432468800,1432474200,Leicester,QPR,TEAM1,1.49,6.34,4.6
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432468800,1432474200,"Manchester City",Southampton,TEAM1,1.61,5.58,4.08
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432468800,1432474200,Newcastle,"West Ham",TEAM1,1.75,4.71,3.84
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432468800,1432474200,Stoke,Liverpool,TEAM1,3.35,2.18,3.46
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1432140300,1432145700,Arsenal,Sunderland,DRAW,1.27,11.83,5.92
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431968400,1431973800,"West Brom",Chelsea,TEAM1,5.18,1.72,3.66
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431867600,1431873000,"Manchester United",Arsenal,DRAW,2.56,2.9,3.33
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431858600,1431864000,Swansea,"Manchester City",TEAM2,4.64,1.75,3.9
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431786600,1431792000,Liverpool,"Crystal Palace",TEAM2,1.45,7.63,4.48
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431777600,1431783000,Burnley,Stoke,DRAW,2.57,2.9,3.24
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431777600,1431783000,QPR,Newcastle,TEAM1,3.19,2.31,3.39
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431777600,1431783000,Sunderland,Leicester,DRAW,2.95,2.53,3.19
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431777600,1431783000,Tottenham,"Hull City",TEAM1,1.87,4.3,3.63
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431777600,1431783000,"West Ham",Everton,TEAM2,2.49,2.89,3.36
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431769500,1431774900,Southampton,"Aston Villa",TEAM1,1.78,4.74,3.66
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431363600,1431369000,Arsenal,Swansea,TEAM2,1.32,9.88,5.49
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431262800,1431268200,Chelsea,Liverpool,DRAW,2.13,3.59,3.38
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431253800,1431259200,"Manchester City",QPR,TEAM1,1.19,14.75,7.31
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431181800,1431187200,"Crystal Palace","Manchester United",TEAM2,4.61,1.85,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431172800,1431178200,"Aston Villa","West Ham",TEAM1,1.8,4.58,3.68
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431172800,1431178200,"Hull City",Burnley,TEAM2,1.9,4.29,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431172800,1431178200,Leicester,Southampton,TEAM1,2.73,2.7,3.24
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431172800,1431178200,Newcastle,"West Brom",DRAW,2.23,3.41,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431172800,1431178200,Stoke,Tottenham,TEAM1,3.18,2.33,3.31
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1431164700,1431170100,Everton,Sunderland,TEAM2,1.7,5.34,3.68
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430758800,1430764200,"Hull City",Arsenal,TEAM2,5.06,1.73,3.73
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430658000,1430663400,Tottenham,"Manchester City",TEAM2,3.34,2.19,3.48
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430649000,1430654400,Chelsea,"Crystal Palace",TEAM1,1.31,11.13,5.15
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430577000,1430582400,"Manchester United","West Brom",TEAM2,1.36,9.56,4.81
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430568000,1430573400,"Aston Villa",Everton,TEAM1,2.6,2.86,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430568000,1430573400,Liverpool,QPR,TEAM1,1.36,8.94,5.14
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430568000,1430573400,Sunderland,Southampton,TEAM1,4.05,2.01,3.33
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430568000,1430573400,Swansea,Stoke,TEAM1,2.24,3.43,3.28
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430568000,1430573400,"West Ham",Burnley,TEAM1,2.32,3.24,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430559900,1430565300,Leicester,Newcastle,TEAM1,1.84,4.53,3.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430325900,1430331300,Leicester,Chelsea,TEAM2,4.92,1.74,3.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430239500,1430244900,"Hull City",Liverpool,TEAM1,3.92,2.06,3.37
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430053200,1430058600,Arsenal,Chelsea,DRAW,2.46,3.15,3.18
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1430044200,1430049600,Everton,"Manchester United",TEAM1,4.05,2.03,3.28
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1429972200,1429977600,"Manchester City","Aston Villa",TEAM1,1.27,12.25,5.69
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1429963200,1429968600,"Crystal Palace","Hull City",TEAM2,1.99,4.18,3.29
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1429963200,1429968600,Newcastle,Swansea,TEAM2,2.34,3.29,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1429963200,1429968600,QPR,"West Ham",DRAW,2.25,3.31,3.36
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2014-2015/results/,1429963200,1429968600,"West Brom",Liverpool,DRAW,4.38,1.89,3.49
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399809600,1399815000,Cardiff,Chelsea,TEAM2,7.92,1.36,5.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399809600,1399815000,Fulham,"Crystal Palace",DRAW,2.5,2.7,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399809600,1399815000,"Hull City",Everton,TEAM2,3.53,2.05,3.48
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399809600,1399815000,Liverpool,Newcastle,TEAM1,1.15,14.67,8.17
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399809600,1399815000,"Manchester City","West Ham",TEAM1,1.16,14.33,7.83
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399809600,1399815000,Norwich,Arsenal,TEAM2,4.97,1.67,3.93
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399809600,1399815000,Southampton,"Manchester United",DRAW,2.75,2.36,3.72
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399809600,1399815000,Sunderland,Swansea,TEAM2,2.22,3.2,3.4
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399809600,1399815000,Tottenham,"Aston Villa",TEAM1,1.49,6.58,4.33
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399809600,1399815000,"West Brom",Stoke,TEAM2,2.15,3.3,3.43
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399481100,1399486500,"Manchester City","Aston Villa",TEAM1,1.15,16.33,8.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399481100,1399486500,Sunderland,"West Brom",TEAM1,2.03,4.02,3.17
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399394700,1399400100,"Manchester United","Hull City",TEAM1,1.41,7.5,4.63
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399309200,1399314600,"Crystal Palace",Liverpool,DRAW,8.0,1.35,5.18
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399208400,1399213800,Chelsea,Norwich,DRAW,1.19,14.0,6.78
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399199400,1399204800,Arsenal,"West Brom",TEAM1,1.38,7.92,4.83
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399127400,1399132800,Everton,"Manchester City",TEAM2,4.58,1.69,4.03
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399118400,1399123800,"Aston Villa","Hull City",TEAM1,2.56,3.08,2.93
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399118400,1399123800,"Manchester United",Sunderland,TEAM2,1.4,7.5,4.82
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399118400,1399123800,Newcastle,Cardiff,TEAM1,1.91,3.85,3.62
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399118400,1399123800,Stoke,Fulham,TEAM1,2.26,3.18,3.32
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399118400,1399123800,Swansea,Southampton,TEAM2,2.38,3.0,3.27
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1399110300,1399115700,"West Ham",Tottenham,TEAM1,3.83,1.92,3.62
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398704400,1398709800,Arsenal,Newcastle,TEAM1,1.23,12.0,6.13
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398604200,1398609600,"Crystal Palace","Manchester City",TEAM2,7.6,1.41,4.6
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398596700,1398602100,Liverpool,Chelsea,TEAM2,1.65,5.07,3.9
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398589200,1398594600,Sunderland,Cardiff,TEAM1,1.74,4.73,3.65
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398522600,1398528000,"Manchester United",Norwich,TEAM1,1.29,9.42,5.62
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398513600,1398519000,Fulham,"Hull City",DRAW,2.3,3.13,3.28
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398513600,1398519000,Stoke,Tottenham,TEAM2,3.4,2.14,3.37
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398513600,1398519000,Swansea,"Aston Villa",TEAM1,1.66,5.6,3.6
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398513600,1398519000,"West Brom","West Ham",TEAM1,1.85,4.3,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398505500,1398510900,Southampton,Everton,TEAM1,2.75,2.5,3.37
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1398099600,1398105000,"Manchester City","West Brom",TEAM1,1.22,12.33,6.83
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397999400,1398004800,Everton,"Manchester United",TEAM1,2.53,2.73,3.38
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397991900,1397997300,"Hull City",Arsenal,TEAM2,4.7,1.77,3.58
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397984400,1397989800,Norwich,Liverpool,TEAM2,6.83,1.44,4.61
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397917800,1397923200,Chelsea,Sunderland,TEAM2,1.19,14.67,6.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397908800,1397914200,"Aston Villa",Southampton,DRAW,3.28,2.22,3.28
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397908800,1397914200,Cardiff,Stoke,DRAW,2.36,3.03,3.28
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397908800,1397914200,Newcastle,Swansea,TEAM2,2.93,2.42,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397908800,1397914200,"West Ham","Crystal Palace",TEAM2,2.25,3.3,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397900700,1397906100,Tottenham,Fulham,TEAM1,1.5,6.17,4.38
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397666700,1397672100,Everton,"Crystal Palace",TEAM2,1.35,8.58,4.72
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397666700,1397672100,"Manchester City",Sunderland,DRAW,1.14,18.0,8.33
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397580300,1397585700,Arsenal,"West Ham",TEAM1,1.34,8.83,5.07
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397394420,1397399820,Swansea,Chelsea,TEAM2,4.72,1.79,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397385420,1397390820,Liverpool,"Manchester City",TEAM1,2.25,3.07,3.48
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397304420,1397309820,Southampton,Cardiff,TEAM2,1.43,7.42,4.48
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2013-2014/results/,1397304420,1397309820,Sunderland,Everton,TEAM2,4.63,1.82,3.4
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368968400,1368973800,Chelsea,Everton,TEAM1,1.75,4.6,3.65
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368968400,1368973800,Liverpool,QPR,TEAM1,1.24,10.0,6.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368968400,1368973800,"Manchester City",Norwich,TEAM2,1.24,10.5,6.13
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368968400,1368973800,Newcastle,Arsenal,TEAM2,5.25,1.55,4.42
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368968400,1368973800,Southampton,Stoke,DRAW,1.7,5.13,3.6
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368968400,1368973800,Swansea,Fulham,TEAM2,1.61,5.13,3.95
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368968400,1368973800,Tottenham,Sunderland,TEAM1,1.22,12.0,5.9
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368968400,1368973800,"West Brom","Manchester United",DRAW,3.78,2.03,3.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368968400,1368973800,"West Ham",Reading,TEAM1,1.61,5.5,3.8
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368968400,1368973800,Wigan,"Aston Villa",DRAW,2.05,3.35,3.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368550800,1368556200,Reading,"Manchester City",TEAM2,6.33,1.45,4.58
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368549900,1368555300,Arsenal,Wigan,TEAM1,1.34,8.33,5.17
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368363600,1368369000,"Manchester United",Swansea,TEAM1,1.33,8.67,4.93
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368360000,1368365400,Everton,"West Ham",TEAM1,1.49,6.5,4.07
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368360000,1368365400,Fulham,Liverpool,TEAM2,3.82,2.0,3.43
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368360000,1368365400,Norwich,"West Brom",TEAM1,2.35,3.02,3.22
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368360000,1368365400,QPR,Newcastle,TEAM2,3.07,2.28,3.27
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368360000,1368365400,Sunderland,Southampton,DRAW,2.78,2.66,3.18
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368354600,1368360000,Stoke,Tottenham,TEAM2,4.37,1.83,3.4
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368265500,1368270900,"Aston Villa",Chelsea,TEAM2,4.75,1.71,3.73
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1368031500,1368036900,Chelsea,Tottenham,DRAW,1.83,4.0,3.68
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367945100,1367950500,"Manchester City","West Brom",TEAM1,1.38,8.25,4.67
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367945100,1367950500,Wigan,Swansea,TEAM2,1.8,4.29,3.58
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367859600,1367865000,Sunderland,Stoke,DRAW,2.17,3.53,3.1
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367758800,1367764200,"Manchester United",Chelsea,TEAM2,2.33,3.05,3.23
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367749800,1367755200,Liverpool,Everton,DRAW,1.98,3.6,3.6
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367677800,1367683200,QPR,Arsenal,TEAM2,7.75,1.38,4.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367668800,1367674200,Fulham,Reading,TEAM2,1.69,4.88,3.7
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367668800,1367674200,Norwich,"Aston Villa",TEAM2,2.5,2.9,3.13
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367668800,1367674200,Swansea,"Manchester City",DRAW,4.35,1.78,3.68
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367668800,1367674200,Tottenham,Southampton,TEAM1,1.53,6.0,4.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367668800,1367674200,"West Brom",Wigan,TEAM2,2.29,3.05,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367668800,1367674200,"West Ham",Newcastle,DRAW,2.18,3.28,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367254800,1367260200,"Aston Villa",Sunderland,TEAM1,2.13,3.4,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367154000,1367159400,Arsenal,"Manchester United",DRAW,2.23,3.0,3.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367150400,1367155800,Chelsea,Swansea,TEAM1,1.39,7.5,4.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367145000,1367150400,Reading,QPR,DRAW,2.38,2.83,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367073000,1367078400,Newcastle,Liverpool,TEAM2,2.95,2.4,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367064000,1367069400,Everton,Fulham,TEAM1,1.49,6.25,4.29
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367064000,1367069400,Southampton,"West Brom",TEAM2,1.74,4.48,3.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367064000,1367069400,Stoke,Norwich,TEAM1,2.07,3.78,3.1
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367064000,1367069400,Wigan,Tottenham,DRAW,3.15,2.22,3.33
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1367055900,1367061300,"Manchester City","West Ham",TEAM1,1.22,12.0,5.88
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1366650000,1366655400,"Manchester United","Aston Villa",TEAM1,1.26,10.25,5.63
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1366549200,1366554600,Liverpool,Chelsea,DRAW,2.1,3.35,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1366540200,1366545600,Tottenham,"Manchester City",TEAM1,2.58,2.7,3.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1366459200,1366464600,Fulham,Arsenal,TEAM2,5.25,1.58,4.15
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1366459200,1366464600,Norwich,Reading,TEAM1,1.78,4.88,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1366459200,1366464600,QPR,Stoke,TEAM2,2.1,3.55,3.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2012-2013/results/,1366459200,1366464600,Sunderland,Everton,TEAM1,3.15,2.32,3.18
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336910400,1336915800,Chelsea,Blackburn,TEAM1,1.27,10.5,5.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336910400,1336915800,Everton,Newcastle,TEAM1,2.02,3.4,3.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336910400,1336915800,"Manchester City",QPR,TEAM1,1.12,16.5,9.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336910400,1336915800,Norwich,"Aston Villa",TEAM1,2.02,3.58,3.4
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336910400,1336915800,Stoke,Bolton,DRAW,2.13,3.15,3.58
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336910400,1336915800,Sunderland,"Manchester United",TEAM2,7.0,1.44,4.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336910400,1336915800,Swansea,Liverpool,TEAM1,3.33,2.1,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336910400,1336915800,Tottenham,Fulham,TEAM1,1.4,8.0,4.48
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336910400,1336915800,"West Brom",Arsenal,TEAM2,5.08,1.61,4.08
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336910400,1336915800,Wigan,Wolves,TEAM1,1.57,5.75,3.88
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336496400,1336501800,Liverpool,Chelsea,TEAM1,2.13,3.28,3.48
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336410000,1336415400,Blackburn,Wigan,TEAM2,2.7,2.5,3.38
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336309200,1336314600,"Manchester United",Swansea,TEAM1,1.17,15.5,7.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336302000,1336307400,"Aston Villa",Tottenham,DRAW,3.93,1.9,3.43
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336302000,1336307400,Bolton,"West Brom",DRAW,2.13,3.35,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336302000,1336307400,Fulham,Sunderland,TEAM1,1.68,5.0,3.7
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336302000,1336307400,QPR,Stoke,TEAM1,1.8,4.33,3.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336302000,1336307400,Wolves,Everton,DRAW,4.75,1.74,3.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336300200,1336305600,Newcastle,"Manchester City",TEAM2,4.92,1.65,3.95
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1336211100,1336216500,Arsenal,Norwich,DRAW,1.2,15.5,6.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335978000,1335983400,Bolton,Tottenham,TEAM2,4.3,1.81,3.58
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335977100,1335982500,Chelsea,Newcastle,TEAM2,1.47,6.63,4.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335890700,1335896100,Liverpool,Fulham,TEAM2,1.75,5.0,3.6
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335890700,1335896100,Stoke,Everton,DRAW,3.0,2.35,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335805200,1335810600,"Manchester City","Manchester United",TEAM1,2.02,3.68,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335704400,1335709800,Tottenham,Blackburn,TEAM1,1.34,8.25,5.13
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335695400,1335700800,Chelsea,QPR,TEAM1,1.42,7.75,4.38
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335623400,1335628800,Norwich,Liverpool,TEAM2,4.38,1.78,3.65
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335614400,1335619800,Everton,Fulham,TEAM1,1.8,4.42,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335614400,1335619800,Stoke,Arsenal,DRAW,4.23,1.85,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335614400,1335619800,Sunderland,Bolton,DRAW,2.0,3.68,3.4
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335614400,1335619800,Swansea,Wolves,DRAW,1.5,6.63,4.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335614400,1335619800,"West Brom","Aston Villa",DRAW,2.1,3.45,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335614400,1335619800,Wigan,Newcastle,TEAM1,2.57,2.63,3.38
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335285900,1335291300,"Aston Villa",Bolton,TEAM2,1.95,3.9,3.4
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335099600,1335105000,Liverpool,"West Brom",TEAM2,1.4,7.75,4.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335099600,1335105000,Wolves,"Manchester City",TEAM2,13.0,1.19,6.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335087000,1335092400,"Manchester United",Everton,DRAW,1.37,8.5,4.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335018600,1335024000,QPR,Tottenham,TEAM1,3.73,2.03,3.33
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335009600,1335015000,"Aston Villa",Sunderland,DRAW,2.2,3.3,3.23
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335009600,1335015000,Blackburn,Norwich,TEAM1,2.0,3.55,3.45
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335009600,1335015000,Bolton,Swansea,DRAW,2.32,3.05,3.23
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335009600,1335015000,Fulham,Wigan,TEAM1,1.87,4.05,3.55
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335009600,1335015000,Newcastle,Stoke,TEAM1,1.66,5.3,3.63
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1335001500,1335006900,Arsenal,Chelsea,DRAW,1.85,4.3,3.6
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1334595600,1334601000,Arsenal,Wigan,TEAM2,1.27,10.75,5.68
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1334494800,1334500200,"Manchester United","Aston Villa",TEAM1,1.2,13.0,6.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1334404800,1334410200,Sunderland,Wolves,DRAW,1.53,6.25,4.1
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1334404800,1334410200,Swansea,Blackburn,TEAM1,2.0,3.7,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2011-2012/results/,1334404800,1334410200,"West Brom",QPR,TEAM1,2.15,3.25,3.4
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1306069200,1306074600,"Aston Villa",Liverpool,TEAM1,3.5,2.1,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1306069200,1306074600,Bolton,"Manchester City",TEAM2,5.0,1.65,3.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1306069200,1306074600,Everton,Chelsea,TEAM1,3.0,2.25,3.4
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1306069200,1306074600,Fulham,Arsenal,DRAW,4.0,1.9,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1306069200,1306074600,"Manchester United",Blackpool,TEAM1,1.4,6.5,4.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1306069200,1306074600,Newcastle,"West Brom",DRAW,2.0,3.65,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1306069200,1306074600,Stoke,Wigan,TEAM2,2.1,3.4,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1306069200,1306074600,Tottenham,Birmingham,TEAM1,1.52,6.0,4.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1306069200,1306074600,"West Ham",Sunderland,TEAM2,1.9,3.8,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1306069200,1306074600,Wolves,Blackburn,TEAM2,2.1,3.6,3.1
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305650700,1305656100,"Manchester City","Stoke ",TEAM1,1.4,8.0,4.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305464400,1305469800,Arsenal,"Aston Villa",TEAM2,1.35,8.0,4.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305464400,1305469800,Birmingham,Fulham,TEAM2,2.1,3.5,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305464400,1305469800,Liverpool,Tottenham,TEAM2,1.6,5.0,4.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305464400,1305469800,Wigan,"West Ham",TEAM1,1.9,3.8,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305455400,1305460800,Chelsea,Newcastle,DRAW,1.25,10.0,5.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305366300,1305371700,Blackburn,"Manchester United",DRAW,5.5,1.65,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305366300,1305371700,Blackpool,Bolton,TEAM1,2.0,3.4,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305366300,1305371700,Sunderland,Wolves,TEAM2,2.7,2.5,3.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305366300,1305371700,"West Brom",Everton,TEAM1,2.5,2.7,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1305045900,1305051300,"Manchester City",Tottenham,TEAM1,1.9,4.0,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304960400,1304965800,Fulham,Liverpool,TEAM2,2.85,2.4,3.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304860200,1304865600,"Manchester United",Chelsea,TEAM1,2.2,3.2,3.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304852700,1304858100,Stoke,Arsenal,TEAM1,4.3,1.82,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304845200,1304850600,Wolves,"West Brom",TEAM1,2.1,3.3,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304778600,1304784000,Tottenham,Blackpool,DRAW,1.3,8.0,5.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304769600,1304775000,"Aston Villa",Wigan,DRAW,1.8,4.25,3.5
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304769600,1304775000,Bolton,Sunderland,TEAM2,1.72,4.5,3.65
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304769600,1304775000,Everton,"Manchester City",TEAM1,2.54,2.7,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304769600,1304775000,Newcastle,Birmingham,TEAM1,1.9,4.0,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304769600,1304775000,"West Ham",Blackburn,DRAW,2.0,3.65,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304255400,1304260800,"Manchester City","West Ham",TEAM1,1.4,8.0,4.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304247900,1304253300,Arsenal,"Manchester United",TEAM1,2.5,2.75,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304240400,1304245800,Birmingham,Wolves,DRAW,2.1,3.3,3.4
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304240400,1304245800,Liverpool,Newcastle,TEAM1,1.45,7.5,4.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304173800,1304179200,Chelsea,Tottenham,TEAM1,1.5,6.5,3.9
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304164800,1304170200,Blackburn,Bolton,TEAM1,1.9,4.0,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304164800,1304170200,Blackpool,Stoke,DRAW,2.5,2.75,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304164800,1304170200,Sunderland,Fulham,TEAM2,2.5,2.75,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304164800,1304170200,"West Brom","Aston Villa",TEAM1,2.4,2.8,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1304164800,1304170200,Wigan,Everton,DRAW,2.8,2.4,3.3
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1303923600,1303929000,Fulham,Bolton,TEAM1,1.8,4.5,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1303836300,1303841700,Stoke,Wolves,TEAM1,1.8,4.5,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1303750800,1303756200,Blackburn,"Manchester City",TEAM2,4.0,1.9,3.35
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1303650000,1303655400,Bolton,Arsenal,TEAM1,5.0,1.65,3.75
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1303569000,1303574400,Chelsea,"West Ham",TEAM1,1.2,13.0,6.0
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1303560000,1303565400,"Aston Villa",Stoke,DRAW,1.95,4.0,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1303560000,1303565400,Liverpool,Birmingham,TEAM1,1.45,6.5,4.25
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1303560000,1303565400,Tottenham,"West Brom",DRAW,1.5,6.0,4.09
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2010-2011/results/,1303560000,1303565400,Wolves,Fulham,DRAW,2.5,2.75,3.2
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273410000,1273415400,Arsenal,Fulham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273410000,1273415400,"Aston Villa",Blackburn,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273410000,1273415400,Bolton,Birmingham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273410000,1273415400,Burnley,Tottenham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273410000,1273415400,Chelsea,Wigan,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273410000,1273415400,Everton,Portsmouth,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273410000,1273415400,"Hull City",Liverpool,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273410000,1273415400,"Manchester United",Stoke,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273410000,1273415400,"West Ham","Manchester City",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273410000,1273415400,Wolves,Sunderland,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273078800,1273084200,Fulham,Stoke,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1273078800,1273084200,"Manchester City",Tottenham,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272895200,1272900600,Blackburn,Arsenal,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272882600,1272888000,Wigan,"Hull City",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272805200,1272810600,Sunderland,"Manchester United",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272801600,1272807000,Fulham,"West Ham",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272796200,1272801600,Liverpool,Chelsea,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272715200,1272720600,"Manchester City","Aston Villa",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272715200,1272720600,Portsmouth,Wolves,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272715200,1272720600,Stoke,Everton,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272715200,1272720600,Tottenham,Bolton,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272707100,1272712500,Birmingham,Burnley,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272200400,1272205800,Chelsea,Stoke,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272196800,1272202200,Burnley,Liverpool,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272196800,1272202200,Everton,Fulham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272186000,1272191400,"Aston Villa",Birmingham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272119400,1272124800,Arsenal,"Manchester City",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272110400,1272115800,Bolton,Portsmouth,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272110400,1272115800,"Hull City",Sunderland,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272110400,1272115800,"West Ham",Wigan,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272110400,1272115800,Wolves,Blackburn,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1272102300,1272107700,"Manchester United",Tottenham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271868300,1271873700,"Hull City","Aston Villa",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271696400,1271701800,Liverpool,"West Ham",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271595600,1271601000,Portsmouth,"Aston Villa",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271586600,1271592000,Wigan,Arsenal,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271514600,1271520000,Tottenham,Chelsea,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271505600,1271511000,Birmingham,"Hull City",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271505600,1271511000,Blackburn,Everton,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271505600,1271511000,Fulham,Wolves,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271505600,1271511000,Stoke,Bolton,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271505600,1271511000,Sunderland,Burnley,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271497500,1271502900,"Manchester City","Manchester United",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271264400,1271269800,Tottenham,Arsenal,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271263500,1271268900,"Aston Villa",Everton,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271263500,1271268900,Wigan,Portsmouth,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1271178000,1271183400,Chelsea,Bolton,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1270990800,1270996200,"Manchester City",Birmingham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1270987200,1270992600,Liverpool,Fulham,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2009-2010/results/,1270981800,1270987200,Blackburn,"Manchester United",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1243170000,1243175400,Arsenal,Stoke,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1243170000,1243175400,"Aston Villa",Newcastle,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1243170000,1243175400,Blackburn,"West Brom",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1243170000,1243175400,Fulham,Everton,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1243170000,1243175400,"Hull City","Manchester United",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1243170000,1243175400,Liverpool,Tottenham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1243170000,1243175400,"Manchester City",Bolton,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1243170000,1243175400,Sunderland,Chelsea,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1243170000,1243175400,"West Ham",Middlesbrough,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1243170000,1243175400,Wigan,Portsmouth,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242666000,1242671400,Portsmouth,Sunderland,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242565200,1242570600,Chelsea,Blackburn,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242556200,1242561600,"West Brom",Liverpool,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242475200,1242480600,Bolton,"Hull City",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242475200,1242480600,Everton,"West Ham",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242475200,1242480600,Middlesbrough,"Aston Villa",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242475200,1242480600,Newcastle,Fulham,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242475200,1242480600,Stoke,Wigan,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242475200,1242480600,Tottenham,"Manchester City",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242467100,1242472500,"Manchester United",Arsenal,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242234000,1242239400,Wigan,"Manchester United",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1242061200,1242066600,Newcastle,Middlesbrough,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241960400,1241965800,Arsenal,Chelsea,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241951400,1241956800,"Manchester United","Manchester City",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241879400,1241884800,"West Ham",Liverpool,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241870400,1241875800,Blackburn,Portsmouth,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241870400,1241875800,Bolton,Sunderland,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241870400,1241875800,Everton,Tottenham,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241870400,1241875800,Fulham,"Aston Villa",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241870400,1241875800,"Hull City",Stoke,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241870400,1241875800,"West Brom",Wigan,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241456400,1241461800,"Aston Villa","Hull City",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241355600,1241361000,Sunderland,Everton,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241346600,1241352000,Liverpool,Newcastle,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241265600,1241271000,Chelsea,Fulham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241265600,1241271000,"Manchester City",Blackburn,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241265600,1241271000,Portsmouth,Arsenal,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241265600,1241271000,Stoke,"West Ham",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241265600,1241271000,Tottenham,"West Brom",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241265600,1241271000,Wigan,Bolton,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1241257500,1241262900,Middlesbrough,"Manchester United",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1240851600,1240857000,Newcastle,Portsmouth,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1240750800,1240756200,Blackburn,Wigan,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1240741800,1240747200,Arsenal,Middlesbrough,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1240669800,1240675200,"Manchester United",Tottenham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1240660800,1240666200,Bolton,"Aston Villa",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1240660800,1240666200,Everton,"Manchester City",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1240660800,1240666200,Fulham,Stoke,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1240660800,1240666200,"West Brom",Sunderland,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2008-2009/results/,1240660800,1240666200,"West Ham",Chelsea,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1210507200,1210512600,Birmingham,Blackburn,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1210507200,1210512600,Chelsea,Bolton,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1210507200,1210512600,Derby,Reading,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1210507200,1210512600,Everton,Newcastle,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1210507200,1210512600,Middlesbrough,"Manchester City",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1210507200,1210512600,Portsmouth,Fulham,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1210507200,1210512600,Sunderland,Arsenal,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1210507200,1210512600,Tottenham,Liverpool,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1210507200,1210512600,"West Ham","Aston Villa",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1210507200,1210512600,Wigan,"Manchester United",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209992400,1209997800,Newcastle,Chelsea,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209906000,1209911400,Liverpool,"Manchester City",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209897000,1209902400,Arsenal,Everton,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209824100,1209829500,Bolton,Sunderland,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209816000,1209821400,"Aston Villa",Wigan,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209816000,1209821400,Blackburn,Derby,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209816000,1209821400,Fulham,Birmingham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209816000,1209821400,Middlesbrough,Portsmouth,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209816000,1209821400,Reading,Tottenham,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209807900,1209813300,"Manchester United","West Ham",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209402000,1209407400,Derby,Arsenal,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209301200,1209306600,Everton,"Aston Villa",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209292200,1209297600,Portsmouth,Blackburn,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209211200,1209216600,Birmingham,Liverpool,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209211200,1209216600,"Manchester City",Fulham,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209211200,1209216600,Sunderland,Middlesbrough,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209211200,1209216600,Tottenham,Bolton,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209211200,1209216600,"West Ham",Newcastle,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209211200,1209216600,Wigan,Reading,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1209203100,1209208500,Chelsea,"Manchester United",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208696400,1208701800,"Manchester City",Portsmouth,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208687400,1208692800,Newcastle,Sunderland,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208682000,1208687400,"Aston Villa",Birmingham,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208614500,1208619900,Blackburn,"Manchester United",DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208606400,1208611800,Fulham,Liverpool,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208606400,1208611800,Middlesbrough,Bolton,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208606400,1208611800,"West Ham",Derby,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208606400,1208611800,Wigan,Tottenham,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208598300,1208603700,Arsenal,Reading,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208451600,1208457000,Everton,Chelsea,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208192400,1208197800,Chelsea,Wigan,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208091600,1208097000,"Manchester United",Arsenal,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208082600,1208088000,Liverpool,Blackburn,TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208009700,1208015100,Portsmouth,Newcastle,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208001600,1208007000,Birmingham,Everton,DRAW,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208001600,1208007000,Bolton,"West Ham",TEAM1,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208001600,1208007000,Derby,"Aston Villa",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208001600,1208007000,Reading,Fulham,TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208001600,1208007000,Sunderland,"Manchester City",TEAM2,-,-,-
+"Premier League",England,http://www.oddsportal.com/soccer/england/premier-league-2007-2008/results/,1208001600,1208007000,Tottenham,Middlesbrough,DRAW,-,-,-
